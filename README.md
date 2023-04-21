@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suneesh T</h1>
-<h3 align="center">I'm a Backend Developer and DevOps Engineer</h3>
+<h3 align="center">I'm a Senior Developer</h3>
 
 - 🔭 I’m currently working on **AWS and Node.js**
 
